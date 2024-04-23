@@ -1,0 +1,48 @@
+body{
+    background-color:lightgray ;
+  }
+  .image{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 25px;
+    box-shadow: 1px 1px 20px rgb(63, 160, 92) ;
+  }
+  .card{
+    height: 400px;
+    width:450px;
+    margin: 200px auto ;
+    border: 1px gray;
+    text-align:center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 29px rgb(75, 73, 73) ,0px 0px 15px gray ;
+    background-color: #fff;
+}
+.name{
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+hr{
+  width: 260px;
+  text-align: center;
+  height:3px;
+  background-color:rgb(63, 160, 92);
+  border-radius: 50px;
+}
+.request{
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.social{
+  background-color:rgb(63, 160, 92);
+font-family: sans-serif;
+  font-size: 20px;;
+  height: 40px;
+  width: 450px;
+}
+.social i{
+  font-size: 40px;
+  margin: 0 10px;
+}
